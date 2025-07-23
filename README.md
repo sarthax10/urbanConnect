@@ -6,7 +6,7 @@
 
 UrbanConnect allows users to easily book professionals for various home services like plumbing, AC repair, cleaning, grooming, and much more. It features role-based access for **customers**, **professionals**, and **admins**, enabling seamless service scheduling, booking management, and reviews.
 
----
+
 
 ## 🧱 Tech Stack
 
@@ -16,7 +16,7 @@ UrbanConnect allows users to easily book professionals for various home services
 - **Auth**: Clerk.dev
 - **Deployment**: Vercel (frontend), Render/Azure (backend), PlanetScale/AWS RDS (MySQL)
 
----
+
 
 ## 🔧 Features
 
@@ -35,7 +35,7 @@ UrbanConnect allows users to easily book professionals for various home services
 - Manage services
 - Access platform-wide booking stats
 
----
+
 
 ## 📐 Database Structure
 
@@ -67,8 +67,6 @@ urbanConnect/
 ├── README.md
 
 
----
-
 ## ✅ Status
 
 Project is in MVP phase with full booking, service, and role-based access:
@@ -78,7 +76,6 @@ Project is in MVP phase with full booking, service, and role-based access:
 - [x] React UI & dashboard
 - [x] SQL dump ready for migration
 
----
 
 ## 🙋 Author
 
@@ -87,6 +84,4 @@ GitHub: [@sarthax10](https://github.com/sarthax10)
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See [`LICENSE`](./LICENSE) for details.
+```

@@ -1,0 +1,972 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\controllers\\professionalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\controllers\\professionalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\services\\interface\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\services\\interface\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\repositories\\interface\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\repositories\\interface\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\dto\\bookingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\dto\\bookingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\services\\professionalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\services\\professionalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\services\\interface\\iprofessionalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\services\\interface\\iprofessionalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\repositories\\interface\\iprofessionalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\repositories\\interface\\iprofessionalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\repositories\\professionalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\repositories\\professionalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\dto\\professionalsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\dto\\professionalsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\services\\professionalreviewservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\services\\professionalreviewservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\repositories\\professionalreviewrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\repositories\\professionalreviewrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\services\\interface\\iprofessionalreviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\services\\interface\\iprofessionalreviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\repositories\\interface\\iprofessionalreviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\repositories\\interface\\iprofessionalreviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\controllers\\professionalreviewcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\controllers\\professionalreviewcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\models\\professionalreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\models\\professionalreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\models\\bookingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\models\\bookingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\services\\professionalservicemappingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\services\\professionalservicemappingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\repositories\\interface\\itestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\repositories\\interface\\itestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\services\\interface\\iserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\services\\interface\\iserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\repositories\\interface\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\repositories\\interface\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\services\\interface\\iavailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\services\\interface\\iavailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\models\\professionalavailability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\models\\professionalavailability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\repositories\\availabilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\repositories\\availabilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\repositories\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\repositories\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\repositories\\interface\\iprofessionalservicemappingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\repositories\\interface\\iprofessionalservicemappingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\repositories\\interface\\iprofessionalavailabilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\repositories\\interface\\iprofessionalavailabilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\controllers\\availabilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\controllers\\availabilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\services\\availabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\services\\availabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\repositories\\interface\\iavailabilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\repositories\\interface\\iavailabilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\services\\professionalavailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\services\\professionalavailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\repositories\\professionalavailabilityrepository.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\repositories\\professionalavailabilityrepository.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\services\\interface\\iprofessionalavailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\services\\interface\\iprofessionalavailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\services\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\services\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\services\\interface\\iprofessionalservicemappingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\services\\interface\\iprofessionalservicemappingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\controllers\\professionalservicemappingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\controllers\\professionalservicemappingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\repositories\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\repositories\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\repositories\\professionalservicemappingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\repositories\\professionalservicemappingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\models\\professionalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\models\\professionalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\models\\professionaldetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\models\\professionaldetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\repositories\\testrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\repositories\\testrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\models\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\models\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|c:\\users\\shreyansh\\onedrive\\desktop\\urbanconnect\\backend\\backend\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C770E5-3618-4A85-B43D-55CC5820FF45}|backend\\backend.csproj|solutionrelative:backend\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 183,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProfessionalReviewController .cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Controllers\\ProfessionalReviewController .cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\ProfessionalReviewController .cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Controllers\\ProfessionalReviewController .cs",
+              "RelativeToolTip": "backend\\Controllers\\ProfessionalReviewController .cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:19:16.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProfessionalReviewService .cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\ProfessionalReviewService .cs",
+              "RelativeDocumentMoniker": "backend\\Services\\ProfessionalReviewService .cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\ProfessionalReviewService .cs",
+              "RelativeToolTip": "backend\\Services\\ProfessionalReviewService .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:17:04.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IProfessionalReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\Interface\\IProfessionalReviewService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\Interface\\IProfessionalReviewService.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\Interface\\IProfessionalReviewService.cs",
+              "RelativeToolTip": "backend\\Services\\Interface\\IProfessionalReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:16:03.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProfessionalReviewRepository .cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\ProfessionalReviewRepository .cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\ProfessionalReviewRepository .cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\ProfessionalReviewRepository .cs",
+              "RelativeToolTip": "backend\\Repositories\\ProfessionalReviewRepository .cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswCYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:14:57.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IProfessionalReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\Interface\\IProfessionalReviewRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\Interface\\IProfessionalReviewRepository.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\Interface\\IProfessionalReviewRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\Interface\\IProfessionalReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:14:21.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BookingStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Models\\BookingStatus.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\BookingStatus.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Models\\BookingStatus.cs",
+              "RelativeToolTip": "backend\\Models\\BookingStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T02:49:48.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AvailabilityController.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Controllers\\AvailabilityController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\AvailabilityController.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Controllers\\AvailabilityController.cs",
+              "RelativeToolTip": "backend\\Controllers\\AvailabilityController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T22:46:23.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AvailabilityService.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\AvailabilityService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\AvailabilityService.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\AvailabilityService.cs",
+              "RelativeToolTip": "backend\\Services\\AvailabilityService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T22:45:24.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IAvailabilityService.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\Interface\\IAvailabilityService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\Interface\\IAvailabilityService.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\Interface\\IAvailabilityService.cs",
+              "RelativeToolTip": "backend\\Services\\Interface\\IAvailabilityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T22:44:40.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AvailabilityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\AvailabilityRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\AvailabilityRepository.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\AvailabilityRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\AvailabilityRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T22:43:43.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IAvailabilityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\Interface\\IAvailabilityRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\Interface\\IAvailabilityRepository.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\Interface\\IAvailabilityRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\Interface\\IAvailabilityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T22:42:50.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProfessionalsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\DTO\\ProfessionalsDTO.cs",
+              "RelativeDocumentMoniker": "backend\\DTO\\ProfessionalsDTO.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\DTO\\ProfessionalsDTO.cs",
+              "RelativeToolTip": "backend\\DTO\\ProfessionalsDTO.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAzwDAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T16:37:47.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\DTO\\BookingRequest.cs",
+              "RelativeDocumentMoniker": "backend\\DTO\\BookingRequest.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\DTO\\BookingRequest.cs",
+              "RelativeToolTip": "backend\\DTO\\BookingRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:57:58.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "backend\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAA8wHoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:57:05.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\BookingService.cs",
+              "RelativeToolTip": "backend\\Services\\BookingService.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAYwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:56:43.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\Interface\\IBookingService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\Interface\\IBookingService.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\Interface\\IBookingService.cs",
+              "RelativeToolTip": "backend\\Services\\Interface\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:56:18.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\BookingRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\BookingRepository.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAvwKMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:55:26.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\Interface\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\Interface\\IBookingRepository.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\Interface\\IBookingRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\Interface\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:55:02.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProfessionalAvailabilityService.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\ProfessionalAvailabilityService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\ProfessionalAvailabilityService.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\ProfessionalAvailabilityService.cs",
+              "RelativeToolTip": "backend\\Services\\ProfessionalAvailabilityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:39:21.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IProfessionalAvailabilityService.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\Interface\\IProfessionalAvailabilityService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\Interface\\IProfessionalAvailabilityService.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\Interface\\IProfessionalAvailabilityService.cs",
+              "RelativeToolTip": "backend\\Services\\Interface\\IProfessionalAvailabilityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:38:54.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProfessionalAvailabilityRepository.cs.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\ProfessionalAvailabilityRepository.cs.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\ProfessionalAvailabilityRepository.cs.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\ProfessionalAvailabilityRepository.cs.cs",
+              "RelativeToolTip": "backend\\Repositories\\ProfessionalAvailabilityRepository.cs.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:37:04.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IProfessionalAvailabilityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\Interface\\IProfessionalAvailabilityRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\Interface\\IProfessionalAvailabilityRepository.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\Interface\\IProfessionalAvailabilityRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\Interface\\IProfessionalAvailabilityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:36:39.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ProfessionalServiceMappingController.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Controllers\\ProfessionalServiceMappingController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\ProfessionalServiceMappingController.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Controllers\\ProfessionalServiceMappingController.cs",
+              "RelativeToolTip": "backend\\Controllers\\ProfessionalServiceMappingController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:27:14.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProfessionalServiceMappingService.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\ProfessionalServiceMappingService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\ProfessionalServiceMappingService.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\ProfessionalServiceMappingService.cs",
+              "RelativeToolTip": "backend\\Services\\ProfessionalServiceMappingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:25:17.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IProfessionalServiceMappingService.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\Interface\\IProfessionalServiceMappingService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\Interface\\IProfessionalServiceMappingService.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\Interface\\IProfessionalServiceMappingService.cs",
+              "RelativeToolTip": "backend\\Services\\Interface\\IProfessionalServiceMappingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:24:51.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ProfessionalServiceMappingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\ProfessionalServiceMappingRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\ProfessionalServiceMappingRepository.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\ProfessionalServiceMappingRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\ProfessionalServiceMappingRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:21:41.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IProfessionalServiceMappingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\Interface\\IProfessionalServiceMappingRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\Interface\\IProfessionalServiceMappingRepository.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\Interface\\IProfessionalServiceMappingRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\Interface\\IProfessionalServiceMappingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:21:16.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "backend\\Controllers\\ServiceController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:06:21.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ServiceService.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\ServiceService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\ServiceService.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\ServiceService.cs",
+              "RelativeToolTip": "backend\\Services\\ServiceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:05:05.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IServiceService.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\Interface\\IServiceService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\Interface\\IServiceService.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\Interface\\IServiceService.cs",
+              "RelativeToolTip": "backend\\Services\\Interface\\IServiceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:04:30.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\ServiceRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\ServiceRepository.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\ServiceRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\ServiceRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:02:53.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\Interface\\IServiceRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\Interface\\IServiceRepository.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\Interface\\IServiceRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\Interface\\IServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:02:17.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProfessionalController.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Controllers\\ProfessionalController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\ProfessionalController.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Controllers\\ProfessionalController.cs",
+              "RelativeToolTip": "backend\\Controllers\\ProfessionalController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAA4wEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:52:40.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfessionalService.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\ProfessionalService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\ProfessionalService.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\ProfessionalService.cs",
+              "RelativeToolTip": "backend\\Services\\ProfessionalService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:51:46.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProfessionalService.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\Interface\\IProfessionalService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\Interface\\IProfessionalService.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\Interface\\IProfessionalService.cs",
+              "RelativeToolTip": "backend\\Services\\Interface\\IProfessionalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:50:30.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProfessionalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\ProfessionalRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\ProfessionalRepository.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\ProfessionalRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\ProfessionalRepository.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAwKsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:49:12.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProfessionalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\Interface\\IProfessionalRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\Interface\\IProfessionalRepository.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\Interface\\IProfessionalRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\Interface\\IProfessionalRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:47:55.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T08:06:14.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T08:05:41.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\UserService.cs",
+              "RelativeToolTip": "backend\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T08:03:59.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\Interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\Interface\\IUserService.cs",
+              "RelativeToolTip": "backend\\Services\\Interface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T08:03:23.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "backend\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T08:01:35.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Controllers\\TestController.cs",
+              "RelativeToolTip": "backend\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T05:13:01.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TestService.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\TestService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\TestService.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Services\\TestService.cs",
+              "RelativeToolTip": "backend\\Services\\TestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T05:12:33.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "TestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\TestRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\TestRepository.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\TestRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\TestRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T05:10:59.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ITestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\Interface\\ITestRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\Interface\\ITestRepository.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Repositories\\Interface\\ITestRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\Interface\\ITestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T05:10:27.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "TestData.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Models\\TestData.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\TestData.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Models\\TestData.cs",
+              "RelativeToolTip": "backend\\Models\\TestData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T05:09:50.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProfessionalReview.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Models\\ProfessionalReview.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\ProfessionalReview.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Models\\ProfessionalReview.cs",
+              "RelativeToolTip": "backend\\Models\\ProfessionalReview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T05:06:54.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Models\\Booking.cs",
+              "RelativeToolTip": "backend\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T05:06:09.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProfessionalAvailability.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Models\\ProfessionalAvailability.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\ProfessionalAvailability.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Models\\ProfessionalAvailability.cs",
+              "RelativeToolTip": "backend\\Models\\ProfessionalAvailability.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T05:05:52.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ProfessionalService.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Models\\ProfessionalService.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\ProfessionalService.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Models\\ProfessionalService.cs",
+              "RelativeToolTip": "backend\\Models\\ProfessionalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T05:05:29.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Models\\Service.cs",
+              "RelativeToolTip": "backend\\Models\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T05:04:44.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ProfessionalDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Models\\ProfessionalDetails.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\ProfessionalDetails.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Models\\ProfessionalDetails.cs",
+              "RelativeToolTip": "backend\\Models\\ProfessionalDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T05:04:11.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Models\\Users.cs",
+              "RelativeToolTip": "backend\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T05:03:39.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwDMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T04:59:08.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Shreyansh\\OneDrive\\Desktop\\urbanConnect\\backend\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-22T04:57:11.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

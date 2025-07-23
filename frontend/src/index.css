@@ -1,0 +1,32 @@
+@import "tailwindcss";
+/* Make slick arrows black */
+.slick-arrow:before {
+  color: #111 !important;  /* Or use 'black' */
+  opacity: 1 !important;   /* Make sure it's visible */
+}
+/* Make all tabs normal black text */
+.custom-black-tab .ant-tabs-tab {
+  color: #222;
+  font-weight: 400;
+  background: white;
+  border: none;
+}
+
+/* Active tab: bold and black text, no background */
+.custom-black-tab .ant-tabs-tab.ant-tabs-tab-active,
+.custom-black-tab .ant-tabs-tab-active .ant-tabs-tab-btn {
+  color: #111 !important;
+  font-weight: 700;
+  background: white !important;
+}
+
+/* Black underline (ink bar) for active tab */
+.custom-black-tab .ant-tabs-ink-bar {
+  background: #111 !important;
+  height: 3px;
+}
+
+/* Optional: Remove default border/margin issues */
+.custom-black-tab .ant-tabs-nav {
+  margin-bottom: 0 !important;
+}

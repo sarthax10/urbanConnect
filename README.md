@@ -50,13 +50,7 @@ A normalized MySQL schema with:
 
 See [`/db/schema.sql`](./db/schema.sql) or [`/dump.sql`](./dump.sql) if available.
 
----
 
-
-
-
-
----
 
 ## 🗂️ Project Structure
 

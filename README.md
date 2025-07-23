@@ -1,4 +1,3 @@
-Absolutely! Below is the full code for your `README.md` file. You can **copy and paste this directly into a file named `README.md`** at the root of your project (`urbanConnect/README.md`).
 
 ```markdown
 # UrbanConnect
@@ -53,59 +52,15 @@ See [`/db/schema.sql`](./db/schema.sql) or [`/dump.sql`](./dump.sql) if availabl
 
 ---
 
-## 🚀 Getting Started
 
-### 1. Clone the Repository
 
-```
-git clone https://github.com/sarthax10/urbanConnect.git
-cd urbanConnect
-```
 
-### 2. Configure Environment Variables
-
-#### 🧠 Frontend (`/frontend/.env`)
-
-```
-VITE_API_URL=https://your-api-domain/api
-CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
-```
-
-#### 🖥️ Backend (`/backend/appsettings.Development.json`)
-
-```
-"ConnectionStrings": {
-  "DefaultConnection": "server=your-host;user=your-user;password=your-pass;database=urbandb"
-}
-```
-
-> ⚠️ Make sure your MySQL DB allows remote access and your credentials are correct.
-
----
-
-## 🧪 Running Locally
-
-### Frontend (React)
-```
-cd frontend
-npm install
-npm run dev
-```
-
-### Backend (ASP.NET Core API)
-```
-cd backend
-dotnet restore
-dotnet run
-```
-
-Visit your frontend at `http://localhost:5173` (or Vite default) and backend API at `http://localhost:5000` or the port your app is running on.
 
 ---
 
 ## 🗂️ Project Structure
 
-```
+
 urbanConnect/
 ├── backend/             # ASP.NET Web API
 │   ├── Controllers/
@@ -116,7 +71,7 @@ urbanConnect/
 ├── db/                  # SQL dump & schema
 │   └── schema.sql
 ├── README.md
-```
+
 
 ---
 
@@ -141,20 +96,3 @@ GitHub: [@sarthax10](https://github.com/sarthax10)
 ## 📄 License
 
 This project is licensed under the MIT License. See [`LICENSE`](./LICENSE) for details.
-```
-
-### ✅ What's Included:
-
-- Connection setup
-- Tech stack
-- Run instructions
-- Database structure summary
-- Project folder layout
-- Links to schema or dump files (adjust if needed)
-
-Let me know if you'd like to:
-- Auto-generate this from metadata
-- Add screenshots or API documentation
-- Publish to GitHub Pages / Vercel
-
-You're now production-ready! 🚀

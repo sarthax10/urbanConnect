@@ -25,15 +25,12 @@ UrbanConnect allows users to easily book professionals for various home services
 - View past and upcoming bookings
 - Submit reviews after service completion
 
-### 👨‍🔧 Professionals
-- Set availability
-- Manage bookings, mark as completed/cancelled
-- View customer feedback
 
 ### 🛡️ Admin
 - View stats and top-rated professionals
 - Manage services
 - Access platform-wide booking stats
+- Manage bookings, mark as completed/cancelled
 
 
 
@@ -56,15 +53,37 @@ See [`/db/schema.sql`](./db/schema.sql) or [`/dump.sql`](./dump.sql) if availabl
 
 
 urbanConnect/
-├── backend/             # ASP.NET Web API
-│   ├── Controllers/
-│   └── Models/
-├── frontend/            # React + Ant Design + Tailwind
-│   ├── components/
-│   └── pages/
-├── db/                  # SQL dump & schema
-│   └── schema.sql
+├── backend/                         # ASP.NET Core backend API
+│   ├── Controllers/                 # API controller classes
+│   ├── Data/                       # DbContext, migrations, seed data
+│   ├── DTOs/                       # Data Transfer Objects (requests/responses)
+│   ├── Interfaces/                 # Repository/service interfaces
+│   ├── Models/                     # Entity models matching DB tables
+│   ├── Repositories/               # Database access layer implementations
+│   ├── Services/                   # Business logic services
+│   ├── StoredProcedures/           # SQL Stored Procedure scripts (optional)
+│   ├── Program.cs                  # Main application entry
+│   └── appsettings.json            # Configuration
+│
+├── frontend/                       # React frontend
+│   ├── src/
+│   │   ├── api/                   # API call utilities
+│   │   ├── components/            # Reusable UI components
+│   │   ├── pages/                 # Application pages/screens
+│   │   ├── styles/                # CSS/Tailwind configuration files
+│   │   ├── utils/                 # Utility functions/contexts/hooks
+│   │   └── main.jsx               # React app entry point
+│   ├── public/                    # Static assets
+│   ├── package.json               # Frontend package config
+│
+├── db/                           # Database files
+│   ├── schema.sql                # Full DB schema definition
+│   ├── seed.sql                  # Initial test/sample data
+│   └── stored-procedures.sql     # All SP scripts, if stored separately
+│
+├── .gitignore
 ├── README.md
+
 
 
 ## ✅ Status

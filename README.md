@@ -12,11 +12,11 @@ UrbanConnect is engineered as a scalable, secure, and efficient platform for boo
 - **Navigation Logic:** Simple, top-level menu structure for intuitive user journeys.
 - **Landing Experience:** Users are greeted with branding, mission statement, and high-clarity call-to-action.
 
-![image.png](image.png)
+![image.png](doc/image.png)
 
-![image.png](image%201.png)
+![image.png](doc/image%201.png)
 
-![image.png](image%202.png)
+![image.png](doc/image%202.png)
 
 ## 2.2 Authentication & Roles
 
@@ -25,7 +25,7 @@ UrbanConnect is engineered as a scalable, secure, and efficient platform for boo
 - **First-Time User:** New users on first sign-in are assigned a default 'customer' role.
 - **Role-Based Access:** Admin-specific routes and controls appear dynamically for admin users.
     
-    ![image.png](image%203.png)
+    ![image.png](doc/image%203.png)
     
 
 ## 2.3 Dashboard Experience
@@ -40,17 +40,17 @@ Upon login, users access a structured **dashboard** including:
     - *Statistics:* Count of past and upcoming bookings.
 - **Admin Panel:** Exclusive button visible to admins for advanced controls.
 
-![image.png](image%204.png)
+![image.png](doc/image%204.png)
 
 ## 2.4 Service Booking Workflow
 
 1. **Category Selection:** User chooses a service category (e.g., appliances, cleaning, grooming).
     
-    ![image.png](image%205.png)
+    ![image.png](doc/image%205.png)
     
 2. **Service Discovery:** Available services within the chosen category are displayed with descriptions and durations.
     
-    ![image.png](image%206.png)
+    ![image.png](doc/image%206.png)
     
 3. **Date & Time Picking:** Past dates are disabled to prevent invalid bookings.
 4. **Professional Selection:** Upon service and date selection, the system shows all qualified professionals along with:
@@ -58,13 +58,13 @@ Upon login, users access a structured **dashboard** including:
     - Ratings
     - Bio/Description
         
-        ![image.png](image%207.png)
+        ![image.png](doc/image%207.png)
         
 5. **Slot Booking Logic:**
     - Time slots are computed by splitting daily availability per service duration.
     - When a slot is booked, the system updates the professional’s availability, splits the record, and prevents overlapping reservations.
         
-        ![image.png](image%208.png)
+        ![image.png](doc/image%208.png)
         
 
 ## 2.5 Booking Management (View, Cancel, Reschedule)
@@ -72,15 +72,15 @@ Upon login, users access a structured **dashboard** including:
 - **View Past Bookings:** Users access a list with booking ID, service details, date/time, and professional.
 - **Leave a Review:** Option to rate and comment post-completion.
 
-![image.png](image%209.png)
+![image.png](doc/image%209.png)
 
 - **Upcoming Bookings:** View, cancel, or reschedule.
     - **Cancellation:** Sets appointment status to "CANCELED", excludes from active views.
     - **Rescheduling:** Presents available slots for the assigned professional, using the same slot logic as initial booking.
         
-        ![image.png](image%2010.png)
+        ![image.png](doc/image%2010.png)
         
-        ![image.png](image%2011.png)
+        ![image.png](doc/image%2011.png)
         
 
 ## 2.6 Reviews & Ratings
@@ -90,7 +90,7 @@ Upon login, users access a structured **dashboard** including:
 - **Aggregation:** Average ratings for each professional are calculated and updated in **`professional_details`**.
 - **Display:** Top professionals ranked by total bookings and ratings; shown on dashboard.
     
-    ![image.png](image%2012.png)
+    ![image.png](doc/image%2012.png)
     
 
 ## 2.7 Admin Role & Controls
@@ -98,7 +98,7 @@ Upon login, users access a structured **dashboard** including:
 - **Visibility:** Admin-specific controls and dashboard appear only for users with 'admin' role.
 - **Access Control:** Route protection ensures only authorized admins can access management features.
 
-![image.png](image%2013.png)
+![image.png](doc/image%2013.png)
 
 ## 3. Database & Backend Architecture
 
@@ -112,7 +112,7 @@ Upon login, users access a structured **dashboard** including:
 - **services :** Service catalog professional-to-service mapping.
 - **professional_services: P**rofessional-to-service mapping.
 
-![image.png](image%2014.png)
+![image.png](doc/image%2014.png)
 
 ## 4. Security & Access Control
 
